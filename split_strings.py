@@ -6,7 +6,6 @@ If the string contains an odd number of characters then it should replace the mi
 def solution(s):
     list_pairs = []
     pair = ''
-    
     for value in s:
         pair += value
         if len(pair) == 2:
@@ -14,5 +13,4 @@ def solution(s):
             pair = ''
     if pair:
         list_pairs.append(pair + '_')
-    
     return list_pairs
