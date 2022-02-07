@@ -1,5 +1,5 @@
-# Kata Solutions - Code Wars
+# Kata Solutions - CODEWARS
 
-My solutions for katas in Code Wars platform.
+#### My solutions for katas in Code Wars platform.
 
-http://www.codewars.com/
+To participate in the Code Wars, just access the link: **http://www.codewars.com/**
